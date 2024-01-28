@@ -1,4 +1,4 @@
-# ToDoList em C#
+# ToDoList em C# 📓
 
 Este é um aplicativo simples de lista de tarefas (ToDoList) implementado em C#.
 
@@ -33,7 +33,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## Autor
 
-Seu nome ou apelido aqui
+- Lucas Benediht Caldeira
 
 ## Licença
 
