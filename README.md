@@ -9,6 +9,16 @@ Este é um aplicativo simples de lista de tarefas (ToDoList) implementado em C#.
 - Atualizar o status de uma tarefa (concluída/não concluída).
 - Excluir uma tarefa.
 
+## Tecnologias Utilizadas
+
+- Visual Studio
+- SQLite
+
+## Bibliotecas e Frameworks
+
+- Entity Framework Core: Utilizado para acesso ao banco de dados.
+- Dependency Injection: Utilizado para injeção de dependência.
+
 ## Estrutura do Projeto
 
 - **Models**: Contém a definição da classe `Tarefa`.
